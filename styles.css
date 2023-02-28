@@ -1,0 +1,114 @@
+.body-header{
+    min-width: 280px;
+}
+
+.logo{
+    display: inline-block;
+    padding-left: 3%;
+}
+#img-logo{
+    width: 150px;
+    height: 80px;
+    
+}
+.register{
+   /* display: inline-block;*/
+   position: relative;
+    text-align: left;
+    position: relative;
+    float: right;
+    padding-right: 10%;
+}
+.headertxt{
+    font-size: 15px;
+}
+.body-main{
+    position: fixed;
+    box-shadow: 0px 1px 5px;
+    border-color: grey;
+    padding-left: 20%;
+    left: 0px;
+    height: 85%;
+    width: 100%;
+}
+.create-acc{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.googlebtn{
+    background-color: #3072afec;
+    color: white;
+    margin-right: 10px;
+    width: 225px;
+    height: 40px;
+    border: none;
+    text-align: left;
+    padding-top: 5px;   
+
+}
+.facebookbtn{
+    background-color: #2e4ac5cb;
+    color: white;
+    width: 250px;
+    height: 40px;
+    border: none;
+    text-align: left;
+    padding-top: 5px;    
+}
+.txtbtn{
+    align-items: center;
+    text-align: center;
+    vertical-align: center;
+    font-size:20px;
+    justify-content: center;
+}
+#logo-cre{
+    width: 30px;
+    height: 30px;
+}
+.form{
+    width: 600px;
+    height: 35px;
+    font-size: 20px;
+    padding-bottom: 25px;
+}
+p, b{
+    font-size: 25px;
+}
+span{
+    font-size: 15px;
+}
+.btncircle{
+    background-color: white;
+    opacity: 0.5;
+    border-style: dashed;
+    border-width: 3px;
+    border-radius: 40px;
+    height: 40px;
+    width: 200px;
+}
+.footmain{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+.foot1{
+    display: inline-block;
+    padding-left: 3%;
+    padding-right: 8%;
+}
+.foot2{
+    display: inline-block;
+
+}
+.foot1txt{
+    font-size: 20px;
+}
+li{
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.labelem{
+    padding-bottom: 35px;
+}
