@@ -23,19 +23,20 @@
     font-size: 15px;
 }
 .body-main{
-    position: fixed;
     box-shadow: 0px 1px 5px;
     border-color: grey;
     padding-left: 20%;
     left: 0px;
-    height: 85%;
     width: 100%;
+    margin-bottom: 25px;
+    min-height: 800px;
 }
 .create-acc{
     padding-top: 50px;
     padding-bottom: 20px;
 }
 .googlebtn{
+    
     background-color: #3072afec;
     color: white;
     margin-right: 10px;
@@ -44,6 +45,10 @@
     border: none;
     text-align: left;
     padding-top: 5px;   
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 
 }
 .facebookbtn{
@@ -53,7 +58,11 @@
     height: 40px;
     border: none;
     text-align: left;
-    padding-top: 5px;    
+    padding-top: 5px; 
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;   
 }
 .txtbtn{
     align-items: center;
@@ -87,9 +96,12 @@ span{
     height: 40px;
     width: 200px;
 }
+.labelbtn{
+    padding-bottom: 25px;
+}
 .footmain{
-    position: fixed;
     bottom: 0px;
+    height: 10%;
     width: 100%;
 }
 .foot1{
