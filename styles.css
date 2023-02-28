@@ -23,7 +23,7 @@
     font-size: 15px;
 }
 .body-main{
-    box-shadow: 0px 1px 5px;
+    box-shadow: 10px 1px 5px;
     border-color: grey;
     padding-left: 20%;
     left: 0px;
@@ -76,12 +76,13 @@
     height: 30px;
 }
 .form{
+    vertical-align: middle;
     width: 600px;
-    height: 35px;
+    height: 20px;
     font-size: 20px;
     padding-bottom: 25px;
 }
-p, b{
+p{
     font-size: 25px;
 }
 span{
